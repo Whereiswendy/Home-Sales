@@ -1,0 +1,9 @@
+numpy @ file:///D:/bld/numpy_1721965938595/work/dist/numpy-2.0.1-cp39-cp39-win_amd64.whl#sha256=b89d0d3a3650bb96a7364829bc91e1de55648300e23f8ca653ab37de133d35a6
+pandas @ file:///D:/bld/pandas_1715897793875/work
+py4j @ file:///home/conda/feedstock_root/build_artifacts/py4j_1660381574436/work
+pyarrow==17.0.0
+pyspark @ file:///home/conda/feedstock_root/build_artifacts/pyspark_1709470827857/work
+python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1709299778482/work
+pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1706886791323/work
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+tzdata @ file:///home/conda/feedstock_root/build_artifacts/python-tzdata_1707747584337/work
