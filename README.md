@@ -44,6 +44,12 @@ Home-Sales/
 - **Starter_Code/**: The original starter code provided for the challenge.
 - **requirements.txt**: Lists the dependencies required for this project.
 
+## Main Submission
+
+The main submission for this project is located in the `collab_jupyter` folder. You can view the notebook directly on GitHub by clicking the link below:
+
+- [Open the main submission notebook](https://github.com/Whereiswendy/Home-Sales/blob/main/collab_jupyter/notebooks/Home_Sales_colab.ipynb)
+
 ## Getting Started
 
 ### Prerequisites
