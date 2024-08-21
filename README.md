@@ -72,11 +72,11 @@ Home-Sales/
 
 ### Running the Notebooks
 - **Google Colab:**
-  - Open the notebook `collab_jupyter/notebooks/Home_Sales_starter_code_colab.ipynb` in Google Colab.
+  - Open the notebook `collab_jupyter/notebooks/Home_Sales_colab.ipynb` in Google Colab.
   - Run the cells in order. You can upload the partitioned Parquet files and run the queries accordingly.
 
 - **Local Jupyter Notebook:**
-  - Open the notebook `local_jupyter/notebooks/Home_Sales_starter_code.ipynb` in your local Jupyter environment.
+  - Open the notebook `local_jupyter/notebooks/Home_Sales.ipynb` in your local Jupyter environment.
   - Ensure the CSV files are correctly placed in the `data/` directory, then run the cells in order.
 
 ## Usage
